@@ -8,14 +8,14 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Press Start 2P';
   }
   
   
   
   body {
-  font-family: Arial;
-  background-color: var(--blue);
-  color: bisque;
+    background-color: var(--blue);
+    color: bisque;
   }
   
   header div {
@@ -107,7 +107,7 @@
     display: contents;
   }
   .questions-li {
-  width: 250px;
+  width: 150px;
   }
   .list-inner {
     display: grid;
@@ -138,7 +138,7 @@
     color: white;
     width: 225px;
     border: 1px solid black;
-    font-size: .50cm;
+    font-size: 15px;
     padding: 8px;
     outline: none;
     text-align: start;
